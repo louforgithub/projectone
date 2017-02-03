@@ -1,3 +1,4 @@
 # hello-world
 my first repository
-This is exercise
+exercise
+this
